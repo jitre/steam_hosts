@@ -9,9 +9,9 @@
 104.71.182.190 	login.steampowered.com
 23.45.149.185  	checkout.steampowered.com
 172.64.145.151 	cdn.cloudflare.steamstatic.com
-23.218.218.78  	cdn.akamai.steamstatic.com
-23.45.233.42   	community.akamai.steamstatic.com
+23.45.233.49   	cdn.akamai.steamstatic.com
+23.45.233.40   	community.akamai.steamstatic.com
 23.45.233.9    	avatars.akamai.steamstatic.com
 23.45.233.26   	community.steamstatic.com
-23.218.218.83  	store.akamai.steamstatic.com
+23.45.233.10   	store.akamai.steamstatic.com
 23.45.233.42   	steamcommunity-a.akamaihd.net
