@@ -1,7 +1,7 @@
-23.10.197.147  	steam-chat.com
-23.192.228.228 	steamcdn-a.akamaihd.net
+23.60.147.153  	steam-chat.com
+23.44.229.216  	steamcdn-a.akamaihd.net
 23.12.10.105   	steamcommunity.com
-23.10.197.147  	www.steamcommunity.com
+23.60.147.153  	www.steamcommunity.com
 23.67.33.96    	media.steampowered.com
 23.199.21.199  	store.steampowered.com
 23.12.10.105   	api.steampowered.com
@@ -9,9 +9,9 @@
 23.12.10.105   	login.steampowered.com
 23.199.21.199  	checkout.steampowered.com
 172.64.145.151 	cdn.cloudflare.steamstatic.com
-23.67.33.86    	cdn.akamai.steamstatic.com
-23.67.33.77    	community.akamai.steamstatic.com
+23.67.33.96    	cdn.akamai.steamstatic.com
+23.67.33.103   	community.akamai.steamstatic.com
 23.67.33.89    	avatars.akamai.steamstatic.com
-151.101.3.52   	community.steamstatic.com
-23.67.33.97    	store.akamai.steamstatic.com
-23.67.33.103   	steamcommunity-a.akamaihd.net
+151.101.195.52 	community.steamstatic.com
+23.67.33.89    	store.akamai.steamstatic.com
+23.67.33.77    	steamcommunity-a.akamaihd.net
